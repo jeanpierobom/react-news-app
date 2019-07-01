@@ -1,3 +1,9 @@
+This is a project developed for Special Topics class (WMDD program at Langara)
+
+## Demo
+
+Demo: [http://react-news-app.s3-website-us-east-1.amazonaws.com/](http://react-news-app.s3-website-us-east-1.amazonaws.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
