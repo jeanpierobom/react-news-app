@@ -61,7 +61,7 @@ const Header = (props) => {
       </Container>
 
       <AppBar position="static">
-        <Tabs value={props.currentTab} onChange={props.changeTab} centered>
+        <Tabs value={props.currentTab} onChange={props.changeTab} centered scrollButtons="auto">
           <Tab value="ca" label="Canada" icon={<MyFlag code='ca'/>} />
           <Tab value="us" label="USA" icon={<MyFlag code='us'/>} />
           <Tab value="sr" label="Search Results" icon={<SearchIcon />} />
